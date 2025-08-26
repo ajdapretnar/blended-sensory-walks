@@ -1,5 +1,7 @@
-# Expanding anthropology class with data science literacy
-Supplemental materials for the Expanding anthropology class with data science literacy paper.
+# Blended Sensory Walks Bridging Anthropology and Data Science
+## Introducing Quantitative Methods Through Qualitative Practice
+
+Supplemental materials for the *Blended Sensory Walks Bridging Anthropology and Data Science* paper.
 
 ## Teaching materials
 
