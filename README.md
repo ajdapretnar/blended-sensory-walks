@@ -1,5 +1,4 @@
-# Blended Sensory Walks Bridging Anthropology and Data Science
-## Introducing Quantitative Methods Through Qualitative Practice
+# Blended Sensory Walks Bridging Anthropology and Data Science: Introducing Quantitative Methods Through Qualitative Practice
 
 Supplemental materials for the *Blended Sensory Walks Bridging Anthropology and Data Science* paper.
 
